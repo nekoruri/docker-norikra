@@ -1,9 +1,5 @@
 FROM ubuntu:trusty
 
-# inspired from myfinder/docker-norikra, matsuu/docker-norikra
-# https://github.com/myfinder/docker-norikra
-# https://github.com/matsuu/docker-norikra
-
 MAINTAINER NAKAYAMA Masahiro <aki@nekoruri.jp>
 
 ENV DEBIAN_FRONTEND noninteractive
